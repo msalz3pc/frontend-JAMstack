@@ -1,1 +1,2 @@
-# frontend-JAMstack
+# gatsbyjs-workshop
+Mini Workshop using Gatsbyjs
